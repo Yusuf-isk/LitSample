@@ -1,0 +1,2 @@
+# litsample
+A JavaScript project
