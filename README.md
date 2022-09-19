@@ -1,6 +1,5 @@
 # litsample
 A JavaScript project
-lit-html & lit-element: intermediate - https://open-wc.org/codelabs/intermediate/lit-html
 
 npm i
 
